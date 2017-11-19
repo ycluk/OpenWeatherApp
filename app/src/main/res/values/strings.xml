@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenWeatherApp</string>
+    <string name="button_text">-></string>
+    <string name="zip_code_hint">Enter Zip Code</string>
+</resources>
